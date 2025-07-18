@@ -15,4 +15,5 @@ Python – primary programming language
 
 ## To run
 python filename.py
+
 streamlit run app.py
